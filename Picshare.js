@@ -4435,10 +4435,10 @@ var $author$project$Picshare$main = A2(
 	$elm$html$Html$div,
 	_List_fromArray(
 		[
-			$elm$html$Html$Attributes$class('container mx-auto')
+			$elm$html$Html$Attributes$class('container mx-auto mt-4')
 		]),
 	_List_fromArray(
 		[
-			$elm$html$Html$text('Hello')
+			$elm$html$Html$text('Picshare :)')
 		]));
 _Platform_export({'Picshare':{'init':_VirtualDom_init($author$project$Picshare$main)(0)(0)}});}(this));
